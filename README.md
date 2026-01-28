@@ -5,7 +5,7 @@ Pet Lover es una página web sobre una asociación de adopción de perros en Tex
 
 Dentro de la própia página podemos consultar todos los perros disponibles para adoptar, utilizar filtros para encontrar el perro más acorde a nuestros gustos y necesidades y obtener más información sobre ellos. Además, a través de un formulario podemos enviar nuestros datos y los del perro que deseamos adoptar.
 
-PÁGINA WEB --> https://rous-99.github.io/petlover/
+PÁGINA WEB --> https://rowebdesign.github.io/petlover/
 
 ## OBJETIVOS
 

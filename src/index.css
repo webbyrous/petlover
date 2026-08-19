@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-gray: #FAFAFA;
+  --color-bg-gray:#F7F7F7;
+  --color-hero-text:#e9692c;
+  --color-gray-soft: #F1F4F9;
+  --color-orange: #FA7D20;
+  --color-orange-medium: #FEA43A;
+  --color-orange-soft: #fa7d201c;
+  --color-form-orange:#FEF7ED;
+  --color-gray-strong: #3A3A3A;
+  --color-yellow-soft: #faebd736;
+  --color-new-white: #FFFFFF;
+  --font-montserrat:  "Montserrat", sans-serif;
+  --font-bebas: "Bebas Neue", sans-serif;
+}
